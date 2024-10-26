@@ -3,7 +3,7 @@
 Nhóm 15
 Đề tài: Xây dựng ứng dụng bán đồ nội thất
 
-Lớp học phần: 241IS26A01
+Lớp học phần: Thiết kế web
 
 Danh sách thành viên
 
