@@ -1,5 +1,4 @@
 # Web
-# LapTrinhMobile
 Nhóm 1
 Đề tài: Xây dựng ứng dụng bán đồ nội thất
 
