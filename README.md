@@ -1,6 +1,6 @@
 # Web
 # LapTrinhMobile
-Nhóm 15
+Nhóm 1
 Đề tài: Xây dựng ứng dụng bán đồ nội thất
 
 Lớp học phần: Thiết kế web
